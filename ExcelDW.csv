@@ -1,0 +1,51 @@
+SK_ShopID,Street,PostalCode,City,StartDate,FinishDate,BK_ShopID
+1,Poprzeczna,16-531,Torun,2/10/1975,1/10/2023,1
+2,Hutnicza,05-414,Skarzysko-Kamienna,2/28/1978,,2
+3,Glogowa,34-918,Nowy Targ,10/10/1956,,3
+4,Galczynskiego,42-686,Swidnik,7/6/1960,,4
+5,Zwirki i Wigury,44-369,Lukow,3/16/1987,2/20/2023,5
+6,Piwna,88-295,Pabianice,4/11/1966,,6
+7,Lubelska,08-672,Ciechanow,3/18/1999,,7
+8,Rubinowa,21-404,Gdynia,2/2/1997,,8
+9,Orla,77-972,Kwidzyn,3/3/1965,,9
+10,Wojciecha,16-982,Torun,9/23/1980,1/12/2023,10
+11,Warszawska,78-112,Chojnice,7/28/1987,,11
+12,Fiolkowa,32-837,Czerwionka-Leszczyny,10/1/1974,,12
+13,Paderewskiego,74-873,Krynica,4/25/1992,,13
+14,Kantowa,46-998,Pszczyna,7/5/1985,,14
+15,Daneczno,90-376,Piaseczno,10/19/1971,3/23/2023,15
+16,Nadrzeczna,30-993,Katowice,8/14/1970,,16
+17,Ogrodowa,16-572,Gniezno,6/3/1989,,17
+18,Tyrolowa,05-140,Ruda Waleczna,12/28/1976,,18
+19,Torowa,09-714,Leszno,2/6/1994,,19
+20,Klonowa,57-362,Czerwionka-Leszczyny,5/26/1994,1/10/2023,20
+21,Broniewskiego,24-859,Koscian,9/18/2002,,21
+22,Zachodnia,49-322,Jaslo,12/20/1989,,22
+23,Morelowa,53-395,Pszczyna,10/24/1999,,23
+24,Poniatowskiego,11-057,Zabki,1/23/1990,,24
+25,Czestochowska,53-160,Inowrocław,11/22/1990,2/14/2023,25
+26,Popieluszki,56-783,Swiecie,2/10/1978,,26
+27,Wysoka,56-681,Nysa,2/15/1975,,27
+28,Pulaskiego,94-544,Lubon,12/10/1968,,28
+29,Kruczkowskiego,83-674,Biala Podlaska,7/20/1964,,29
+30,Rubinowa,30-826,Wagrowiec,3/16/1987,,30
+31,Krokusowa,85-676,Otwock,6/11/1970,,31
+32,Torowa,34-893,Gizycko,3/15/1999,,32
+33,Baczynskiego,92-688,Starachowice,2/2/2000,,33
+34,Cegielniana,81-625,Zabki,5/6/1970,,34
+35,Spacerowa,81-510,Olsztyn,9/12/1987,,35
+36,Błekitna,96-556,Opole,7/28/1990,,36
+37,Mlynska,56-352,Szczytno,10/10/1983,,37
+38,Gorna,09-623,Bialogard,4/4/1994,,38
+39,Mysliwska,60-725,Rzeszow,7/7/1991,,39
+40,Pilsudskiego,13-310,Turek,10/19/1971,,40
+41,Sokola,72-931,Plock,8/14/1975,,41
+42,Baltycka,07-218,Ostrowiec,2/3/1989,,42
+43,Teczowa,02-590,Konin,12/28/1998,,43
+44,Chrobrego,53-580,Sopot,2/6/2001,,44
+45,Rajska,04-065,Brodnica,11/26/1996,,45
+46,Cegielniana,95-731,Bielawa,6/18/2002,,46
+47,Krasickiego,32-245,Olesnica,12/12/1990,,47
+48,Nalkowskiej,73-322,Bartoszyce,10/24/1999,,48
+49,Golębia,32-114,Krosno,1/30/1993,,49
+50,Krasinskiego,20-246,Jastrzębie,11/10/1990,,50
